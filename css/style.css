@@ -130,6 +130,7 @@ img {
 
 @media screen and (max-width:768px) {
     .container {
+        
         width: 100%;
     }
 }
@@ -166,6 +167,9 @@ img {
     .steps p{
         padding: 0 50px;
     }
+    .steps{
+        margin-bottom: 0px;
+    }
 
     .col-right{
         margin-top: 70px;
@@ -173,5 +177,7 @@ img {
     .why-us{
         background-color: rgb(34, 34, 34);
         padding: 0 43px;
+        margin-bottom: 0;
+        padding-top: 48px;
     }
 }
