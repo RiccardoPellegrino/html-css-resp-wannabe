@@ -166,11 +166,12 @@ img {
     .steps p{
         padding: 0 50px;
     }
-    .why-us h3{
-        font-size: 30px;
-    }
+
     .col-right{
         margin-top: 70px;
     }
-    
+    .why-us{
+        background-color: rgb(34, 34, 34);
+        padding: 0 43px;
+    }
 }
