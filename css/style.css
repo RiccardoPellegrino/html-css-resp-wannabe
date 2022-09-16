@@ -149,4 +149,12 @@ img {
         min-width: 100%;
         
     }
+    .lessons .col:last-child{
+        margin-top: 70px;
+        
+    }
+    .lessons p{
+        padding: 0 50px;
+        
+    }
 }
