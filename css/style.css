@@ -178,6 +178,13 @@ img {
         background-color: rgb(34, 34, 34);
         padding: 0 43px;
         margin-bottom: 0;
-        padding-top: 48px;
+        padding-top: 50px;
     }
 }
+
+/* BONUS */
+@media screen and  (min-width:769px) and  (max-width:1160px) {
+    .container{
+        width: 100%;
+    }
+ }
